@@ -1,0 +1,30 @@
+.Sign{
+    background-color: rgb(153, 193, 228);
+    border: none;
+    border-radius: 20px;
+    height: 40vh;
+    width: 30vw;
+}
+
+#Name{
+    border: none;
+    border-radius: 20px;
+    height: 20px; 
+}
+
+#Email{
+    border: none;
+    border-radius: 20px; 
+    height: 20px; 
+}
+
+#Password{
+    border: none;
+    border-radius: 20px;
+    height: 20px;  
+}
+
+button{
+    background-color: rgb(194, 56, 56);
+    color: white;
+}
